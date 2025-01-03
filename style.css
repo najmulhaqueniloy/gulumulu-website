@@ -1,11 +1,16 @@
 body{
     background-color: #dddddd;
 }
-div{
+.firstdiv{
     background-color: aquamarine;
     margin: 20px;
     padding: 10px;
 }
 h1{
     text-align: center;
+}
+.seconddiv{
+    background-color: aqua;
+    margin: 20px;
+    padding: 10px;
 }
