@@ -15,7 +15,9 @@ h1{
     padding: 10px;
 }
 .thirddiv{
-    background-color: bisque;
+    background-color: rgb(190, 111, 14);
     width: 400px;
     height: 300px;
+    margin: 20px;
+    padding: 10px;
 }
