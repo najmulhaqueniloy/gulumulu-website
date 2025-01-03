@@ -1,4 +1,7 @@
 body{
+    background-image: url(../Module_02/Images/cat.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #dddddd;
 }
 .firstdiv{
