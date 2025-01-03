@@ -1,7 +1,4 @@
 body{
-    background-image: url(../Module_02/Images/cat.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
     background-color: #dddddd;
 }
 .firstdiv{
@@ -16,4 +13,9 @@ h1{
     background-color: aqua;
     margin: 20px;
     padding: 10px;
+}
+.thirddiv{
+    background-color: bisque;
+    width: 400px;
+    height: 300px;
 }
